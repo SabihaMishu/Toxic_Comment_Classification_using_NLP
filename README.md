@@ -23,7 +23,7 @@ Why this project is interesting
 
 
 ## 📸 Demo
-![Model Demo](assets/demo.gif)
+![Model Demo](notebook/assets/demo.gif)
 
 
 ---
