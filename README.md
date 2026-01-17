@@ -22,7 +22,7 @@ Why this project is interesting
 ---
 
 ## 📸 Demo
-![demo-animated](docs/demo-placeholder.gif)
+![demo-animated]("C:\Users\DFD\Desktop\Screenshot 2026-01-18 012615.png")
 *(Replace with actual GIF or screenshot of notebook/model demo — great for README visual appeal.)*
 
 ---
