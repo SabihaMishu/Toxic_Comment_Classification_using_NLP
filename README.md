@@ -21,9 +21,10 @@ Why this project is interesting
 
 ---
 
+
 ## 📸 Demo
-![demo-animated]
-*(Replace with actual GIF or screenshot of notebook/model demo — great for README visual appeal.)*
+![Model Demo](assets/demo.gif)
+
 
 ---
 
